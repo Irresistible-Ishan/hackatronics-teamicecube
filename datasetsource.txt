@@ -1,0 +1,17 @@
+
+
+
+porthole dataset (only porthole images)
+https://www.kaggle.com/datasets/sachinpatel21/pothole-image-dataset
+
+INDIAN PORTHOLE DATA (unpaved road , porthole , speedbreaker)
+https://www.kaggle.com/datasets/mitangshu11/indian-roads-dataset
+
+pain and porthole images 
+https://www.kaggle.com/datasets/virenbr11/pothole-and-plain-rode-images
+
+
+latest porthole with bounding boxes for yolo 
+https://www.kaggle.com/datasets/ashishkumarak/training-setzip
+
+deer dete
