@@ -1,0 +1,24 @@
+
+
+# TEAM PLAN 
+# we can write our own plan here
+
+
+/////things to finally submit\\\\\
+source code or prototype demonstration
+brief documentation or presentation outlining the idea and implementation
+
+
+# points to consider 
+round 1
+shouldnt be 50% copied from previous projects 
+innovation and creativity 
+originality 
+pattern 
+presentation
+
+round 2
+UI/UX elements 
+application 
+scalability 
+presentation comms
