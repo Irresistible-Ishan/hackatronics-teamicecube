@@ -1,0 +1,97 @@
+# IDEAS
+- > AUTOMATIC GARBAGE SEGMENTATION AND DETECTION using Computer Vision
+- > smart street AI https://www.kaggle.com/datasets/ziya07/intelligent-streetlight-control-system
+- > AI Fake News Detector
+- > RentAI — Smart Rental Fairness Detector using Regression Model
+- > SafeRoute AI — Smart Route Recommender for Women’s Safety
+
+
+
+# TEAM PLAN 
+# we can write our own plan here
+
+
+/////things to finally submit\\\\\
+source code or prototype demonstration
+brief documentation or presentation outlining the idea and implementation
+
+
+# points to consider 
+round 1
+shouldnt be 50% copied from previous projects 
+innovation and creativity 
+originality 
+pattern 
+presentation
+
+round 2
+UI/UX elements 
+application 
+scalability 
+presentation comms
+
+sent by the group itself
+
+🧭 24-Hour Hackathon – Rules & Regulations
+
+To ensure a fair, productive, and professional environment, all participants are required to follow the rules outlined below.
+
+1. Project Development
+
+Software Projects: All software components must be developed entirely during the hackathon.
+
+Hardware Projects:
+
+Hardware prototypes may be pre-built up to 40–50% completion, but final integration, coding, and presentation must be completed during the event.
+
+Participants must bring their own hardware components, tools, and accessories. No hardware kits or materials will be provided by the organizers.
+
+Participants may use open-source tools, APIs, and frameworks, provided proper credit is given where applicable.
+
+2. Team Guidelines
+
+Teams must consist of registered participants only.
+
+Each team member is expected to contribute actively to the project.
+
+Inter-team collaboration or code sharing is strictly prohibited.
+
+3. Submission
+
+All projects must be submitted before the final deadline announced by the organizers.
+
+Each submission must include:
+
+Source code or prototype demonstration
+
+Brief documentation or presentation outlining the idea and implementation
+
+Late entries will not be accepted under any circumstances.
+
+4. Conduct
+
+Participants must maintain professional, respectful, and ethical behavior throughout the event.
+
+Plagiarism, use of pre-built complete solutions, or misconduct of any kind will lead to immediate disqualification.
+
+Participants are responsible for their own devices, tools, hardware components, and belongings.
+
+5. Judging & Evaluation
+
+Projects will be assessed based on the following criteria:
+
+Innovation & Creativity
+
+Technical Implementation
+
+Impact & Feasibility
+
+Presentation & Teamwork
+
+Judges’ decisions are final and binding in all matters related to evaluation and prizes.
+
+6. General
+
+Organizers reserve the right to modify rules or timelines if necessary, with prior notice to participants.
+
+Any disputes or queries should be directed to the organizing committee during the event.
